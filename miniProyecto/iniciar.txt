@@ -1,0 +1,8 @@
+npm init -y
+
+paqts a instalar
+npm i bcrypt //para passwords
+
+npm i moment //para fechas
+
+npm i sharp //para imagns
